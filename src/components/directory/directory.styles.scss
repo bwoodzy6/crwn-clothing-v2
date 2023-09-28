@@ -1,0 +1,8 @@
+// Can nest styling elements instead of standard css where you have to explicitly target nesting
+
+.categories-container {
+ width: 100%;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+}
